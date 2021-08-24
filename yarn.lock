@@ -14852,6 +14852,7 @@ resolve@^2.0.0-next.3:
     node-fetch: ^2.6.1
     react: ^17.0.1
     react-dom: ^17.0.1
+    slugify: ^1.6.0
   languageName: unknown
   linkType: soft
 
@@ -14873,7 +14874,7 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
-"slugify@npm:^1.4.4":
+"slugify@npm:^1.4.4, slugify@npm:^1.6.0":
   version: 1.6.0
   resolution: "slugify@npm:1.6.0"
   checksum: 87035aa1a4559d2c861e5807e030e0a5d933d0a77563511eb91a2502f87c395690da14b8b3757513d1d77a4a7eb74c86abb95c51b8deaf328394bccdf19debb8
